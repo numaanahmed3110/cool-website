@@ -1,5 +1,4 @@
 /* eslint-disable react/prop-types */
-
 const Button = ({ title, id, rightIcon, leftIcon, containerClass }) => {
     return (
         <button id={id} className={`group relative z-10 w-fit cursor-pointer 
